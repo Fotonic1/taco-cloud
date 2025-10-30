@@ -1,0 +1,10 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: taco-auth
+
+  datasource:
+    generate-unique-name: false
+    name: tacoAuth
